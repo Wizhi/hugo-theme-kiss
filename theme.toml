@@ -1,0 +1,12 @@
+name = "Kiss"
+license = "MIT"
+licenselink = "https://github.com/wizhi/hugo-theme-kiss/blob/master/LICENSE"
+description = ""
+homepage = "https://github.com/wizhi/hugo-theme-kiss"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Simon Bo Dall Mikkelsen"
+  homepage = "https://github.com/wizhi"
